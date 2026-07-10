@@ -3,11 +3,11 @@
     "expressions": [{
       "filter": {
         "fieldName":"eventName",
-        "stringFilter": {
+         "stringFilter": {
           "value":"page_view"
-        }
-      }
-    },
+         }
+       }
+     },
     {
       "filter": {
         "fieldName":"eventName",
